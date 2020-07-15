@@ -1,3 +1,5 @@
-System Requirements: Python 2.7 with matplotlib installed.
+# Binary Search Tree
 
-Instructions: Run the program, no inputs required
+**System Requirements:** Python 2.7 with matplotlib installed.
+
+**Instructions:** Run the program, no inputs required
